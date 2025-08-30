@@ -1,0 +1,16 @@
+# Data Handling
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Streamlit (for UI)
+streamlit
+
+# Extra Utilities
+haversine   # to calculate distance between pickup & dropoff
